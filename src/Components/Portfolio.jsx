@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/retro-gamepad-colored-paper-background-entertainment_175682-9217.avif";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Controller";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Devi",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A narrative driven game focused on healing trauma.",
+    url: "https://arin1.itch.io/devi",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Exams are Stupid",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple and fun hyper-casual game.",
+    url: "https://play.google.com/store/apps/details?id=com.redcrossgames.examsarestupid",
   },
   {
-    title: "My Resume Site",
+    title: "Bounce Ball",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Simple platformer game",
+    url: "https://play.google.com/store/apps/details?id=com.redcrossgames.taptobounce",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Cosmic Drive",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A Web3 game based on Etherium blockchain",
+    url: "https://github.com/Sarosij/Cosmic_Drive",
   },
 ];
 
